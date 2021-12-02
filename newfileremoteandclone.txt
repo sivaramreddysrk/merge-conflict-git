@@ -1,0 +1,1 @@
+clone and remote both cmd's used to check how the output will be
